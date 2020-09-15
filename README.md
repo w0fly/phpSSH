@@ -6,3 +6,6 @@
 - calistir.php dosyası içinde olan bilgileri düzenleyip çalıştıralım
 
 İşlem bu kadar. :)
+
+# DipNot
+PHPSecLib kütüphanesi kullanılmıştır. Kesinlikle kütüphane dosyalarının içeriğini değiştirmeyiniz. Aksi taktirde sunucu bağlantısı yapılamaz. Geliştirilmesi açık bir entegrasyondur. Kötü amaçla yazılmamıştır.
