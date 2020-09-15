@@ -1,6 +1,8 @@
 <?php
 
 /**
+ * Edited and Customized by Emre Can Temur (w0fly)
+ * Good Lucks. :)
  * Pure-PHP implementation of SSHv2.
  *
  * PHP version 5
